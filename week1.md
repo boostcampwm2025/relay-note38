@@ -138,8 +138,10 @@ AI에게 다음과 같이 프롬프트를 넣어주었다.
 ```
 
 그리고 AI는 다음과 같은 질문과 나의 답변을 바탕으로 심화 질문을 했다.
-![alt text](image.png)
-![alt text](image.png)
+<img width="1562" height="484" alt="image" src="https://github.com/user-attachments/assets/24f52a2d-e358-4436-b0a7-9f05ced33e72" />
+
+<img width="725" height="477" alt="image" src="https://github.com/user-attachments/assets/0c5a9f7c-bc3c-483a-9fb8-ce37d281bf84" />
+
 
 다음 질문을 바탕으로 AI에게 대답하고, 내가 대답한 것들을 바탕으로 AI가 써준 오늘의 회고이다.
 
