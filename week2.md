@@ -144,7 +144,7 @@ J192 ∙ 2025년 7월 31일 오후 11:17
 </summary>
 
 <p>
-o o x x o x o o x x o
+o o x x o x o o x o
 </p>
 </details>
 
